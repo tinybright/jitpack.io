@@ -1,4 +1,4 @@
-JitPack.io
+JitPack.io[![](https://jitpack.io/v/tinybright/AddressSelector.svg)](https://jitpack.io/#tinybright/AddressSelector)
 =====
 JitPack is a novel package repository for JVM and Android projects. It builds Git projects on demand and provides you with ready-to-use artifacts (jar, aar).
 
